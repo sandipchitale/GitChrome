@@ -1,0 +1,15 @@
+{
+	"name": "GitChrome App",
+	"description": "Chrome packaged app client for Git",
+	"version": "0.1",
+	"app": {
+		"background": {
+			"page": "background.html"
+		}
+	},
+	"icons": {
+		"16": "gitchrome16.png",
+		"128": "gitchrome128.png"
+	},
+	"manifest_version": 2
+}
